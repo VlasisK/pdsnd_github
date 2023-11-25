@@ -1,14 +1,14 @@
 ### Date created
 November - 25 - 2023
 
-# Explore US Bikeshare Data
+# Deeply Explore US Bikeshare Data
 
-### Description
+### Project Description
 In this project I was asked to explore the US Bikeshare data using python with certain libraries. I was asked to create code so that I could provide statistics about bikeshare data regarding 3 major cities.
 
 ### Required Software
 * I used Python 3, NumPy, and pandas while using Anaconda
-* A text editor: VSC
+* A text editor: VSC or Atom
 * A terminal application: Git Bash.
 
 ### Files used
