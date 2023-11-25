@@ -1,6 +1,7 @@
 import time
 import pandas as pd
 import numpy as np
+#adding the calendar library
 import calendar as cal
 
 CITY_DATA = { 'chicago': 'chicago.csv',
@@ -31,7 +32,7 @@ def get_filters():
         else:
             break
 
-    # get user input for month (all, january, february, ... , june)
+    # get user input for month (all, january, february, march ... , june)
     while True:
         month = input("Which month would you like pick " + city.title() + 
                       "? You can choose between January, February, March, " +
