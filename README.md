@@ -1,17 +1,23 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
 ### Date created
-Include the date you created this project and README file.
+July.26 2020
 
-### Project Title
-Replace the Project Title
+# Explore Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+In this project I was asked to explore the US Bikeshare data using python with certain libraries. I was asked to create code so that I could provide statistics about bikeshare data regarding 3 major cities.
+
+### Required Software
+* I used Python 3, NumPy, and pandas while using Anaconda
+* A text editor: VSC
+* A terminal application: Git Bash.
 
 ### Files used
-Include the files used
+1. The following file contains all the python code:
+   * bikeshare.py	
+2. The following files are not uploaded using **gitignore** as they are too big:
+   * chicago.csv
+   * new_york_city.csv
+   * washington.csv
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+### Extra
+* For questions and concerns I mainly used the integrated ChatGPT
