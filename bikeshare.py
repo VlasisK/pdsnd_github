@@ -32,7 +32,7 @@ def get_filters():
         else:
             break
 
-    # get user input for month (all, january, february, ... , june)
+    # get user input for month (all, january, february, march ... , june)
     while True:
         month = input("Which month would you like pick " + city.title() + 
                       "? You can choose between January, February, March, " +
