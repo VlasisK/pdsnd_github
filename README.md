@@ -8,7 +8,7 @@ In this project I was asked to explore the US Bikeshare data using python with c
 
 ### Required Software
 * I used Python 3, NumPy, and pandas while using Anaconda
-* A text editor: VSC
+* A text editor: VSC or Atom
 * A terminal application: Git Bash.
 
 ### Files used
