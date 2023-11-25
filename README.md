@@ -1,7 +1,7 @@
 ### Date created
 November - 25 - 2023
 
-# Explore Bikeshare Data
+# Explore US Bikeshare Data
 
 ### Description
 In this project I was asked to explore the US Bikeshare data using python with certain libraries. I was asked to create code so that I could provide statistics about bikeshare data regarding 3 major cities.
