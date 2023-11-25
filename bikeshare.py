@@ -1,6 +1,7 @@
 import time
 import pandas as pd
 import numpy as np
+#adding the calendar library
 import calendar as cal
 
 CITY_DATA = { 'chicago': 'chicago.csv',
