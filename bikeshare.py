@@ -128,7 +128,10 @@ def time_stats(df, city, month, day):
               cal.month_name[ind_month], '.\n\n')
     
 
+  
+
     # display the most common day of week    
+
     # Use calendar again to get names
     list(cal.day_name)
     
@@ -299,4 +302,5 @@ def main():
 
 
 if __name__ == "__main__":
+
 	main()
